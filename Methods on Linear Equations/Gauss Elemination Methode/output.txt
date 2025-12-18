@@ -1,0 +1,18 @@
+Enter the number of equations: 3
+Augmented matrix:
+2 1 -1 8 
+-3 -1 2 -11 
+-2 1 2 -3 
+Unique solution
+Solution: 2.000 3.000 -1.000 
+Enter the number of equations: 2
+Augmented matrix:
+1.000 2.000 3.000 
+2.000 4.000 6.000 
+Infinite solution
+Enter the number of equations: 2
+Augmented matrix:
+1.000 2.000 3.000 
+2.000 4.000 5.000 
+NO solution
+Enter the number of equations: 
