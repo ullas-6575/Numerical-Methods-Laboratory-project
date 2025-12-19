@@ -1,0 +1,5 @@
+the function is : 1x^4+-8x^3+18x^2+-8x^1+-15x^0+
+ the derivative is :4x^3+ -24x^2+ 36x^1+ -8x^0+ 
+tmax =19
+root= -0.645751
+root= 4.64575

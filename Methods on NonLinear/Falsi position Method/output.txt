@@ -1,0 +1,6 @@
+the function is : 1x^4+-8x^3+18x^2+-8x^1+-15x^0+
+tmax =19
+[ -1 , -0.5 ]
+root=-0.645751	 iteration : 9
+[ 4.5 , 5 ]
+root=4.64575	 iteration : 9

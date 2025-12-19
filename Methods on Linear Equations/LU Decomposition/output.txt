@@ -1,0 +1,204 @@
+Enter no of eq:5
+Lower Triangular:
+     1     0     0     0     0
+   0.5     0     0     0     0
+   1.5     0     0     0     0
+     1     0     0     0     0
+   0.5     0     0     0     0
+
+Upper Triangular:
+     2     1    -1     3     2
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+Lower Triangular:
+     1     0     0     0     0
+   0.5     1     0     0     0
+   1.5   0.2     0     0     0
+     1     0     0     0     0
+   0.5  -0.6     0     0     0
+
+Upper Triangular:
+     2     1    -1     3     2
+     0   2.5   2.5  -2.5     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+Lower Triangular:
+     1     0     0     0     0
+   0.5     1     0     0     0
+   1.5   0.2     1     0     0
+     1     0   0.8     0     0
+   0.5  -0.6   0.8     0     0
+
+Upper Triangular:
+     2     1    -1     3     2
+     0   2.5   2.5  -2.5     0
+     0     0     5    -3    -5
+     0     0     0     0     0
+     0     0     0     0     0
+Lower Triangular:
+     1     0     0     0     0
+   0.5     1     0     0     0
+   1.5   0.2     1     0     0
+     1     0   0.8     1     0
+   0.5  -0.6   0.81.71429     0
+
+Upper Triangular:
+     2     1    -1     3     2
+     0   2.5   2.5  -2.5     0
+     0     0     5    -3    -5
+     0     0     0   1.4     3
+     0     0     0     0     0
+Lower Triangular:
+     1     0     0     0     0
+   0.5     1     0     0     0
+   1.5   0.2     1     0     0
+     1     0   0.8     1     0
+   0.5  -0.6   0.81.71429     1
+
+Upper Triangular:
+     2     1    -1     3     2
+     0   2.5   2.5  -2.5     0
+     0     0     5    -3    -5
+     0     0     0   1.4     3
+     0     0     0     01.85714
+Lower Triangular:
+     1     0     0     0     0
+   0.5     1     0     0     0
+   1.5   0.2     1     0     0
+     1     0   0.8     1     0
+   0.5  -0.6   0.81.71429     1
+
+Upper Triangular:
+     2     1    -1     3     2
+     0   2.5   2.5  -2.5     0
+     0     0     5    -3    -5
+     0     0     0   1.4     3
+     0     0     0     01.85714
+unique sol
+Y:
+9 3.5 5.8 3.36 2.2 
+X:
+5.15385 -1 2.26154 -0.138462 1.18462 
+
+Enter no of eq:4
+Lower Triangular:
+     1     0     0     0
+     2     0     0     0
+     3     0     0     0
+     4     0     0     0
+
+Upper Triangular:
+     1     2     3     4
+     0     0     0     0
+     0     0     0     0
+     0     0     0     0
+Lower Triangular:
+     1     0     0     0
+     2     1     0     0
+     3   nan     0     0
+     4   nan     0     0
+
+Upper Triangular:
+     1     2     3     4
+     0     0     0     0
+     0     0     0     0
+     0     0     0     0
+Lower Triangular:
+     1     0     0     0
+     2     1     0     0
+     3   nan     1     0
+     4   nan   nan     0
+
+Upper Triangular:
+     1     2     3     4
+     0     0     0     0
+     0     0   nan   nan
+     0     0     0     0
+Lower Triangular:
+     1     0     0     0
+     2     1     0     0
+     3   nan     1     0
+     4   nan   nan     1
+
+Upper Triangular:
+     1     2     3     4
+     0     0     0     0
+     0     0   nan   nan
+     0     0     0   nan
+Lower Triangular:
+     1     0     0     0
+     2     1     0     0
+     3   nan     1     0
+     4   nan   nan     1
+
+Upper Triangular:
+     1     2     3     4
+     0     0     0     0
+     0     0   nan   nan
+     0     0     0   nan
+many sol
+Enter no of eq:4
+Lower Triangular:
+     1     0     0     0
+  0.25     0     0     0
+   0.5     0     0     0
+   0.5     0     0     0
+
+Upper Triangular:
+     8     2     3     4
+     0     0     0     0
+     0     0     0     0
+     0     0     0     0
+Lower Triangular:
+     1     0     0     0
+  0.25     1     0     0
+   0.51.11111     0     0
+   0.51.55556     0     0
+
+Upper Triangular:
+     8     2     3     4
+     0   4.5  5.25     7
+     0     0     0     0
+     0     0     0     0
+Lower Triangular:
+     1     0     0     0
+  0.25     1     0     0
+   0.51.11111     1     0
+   0.51.55556  -2.8     0
+
+Upper Triangular:
+     8     2     3     4
+     0   4.5  5.25     7
+     0     01.66667-7.77778
+     0     0     0     0
+Lower Triangular:
+     1     0     0     0
+  0.25     1     0     0
+   0.51.11111     1     0
+   0.51.55556  -2.8     1
+
+Upper Triangular:
+     8     2     3     4
+     0   4.5  5.25     7
+     0     01.66667-7.77778
+     0     0     0-28.6667
+Lower Triangular:
+     1     0     0     0
+  0.25     1     0     0
+   0.51.11111     1     0
+   0.51.55556  -2.8     1
+
+Upper Triangular:
+     8     2     3     4
+     0   4.5  5.25     7
+     0     01.66667-7.77778
+     0     0     0-28.6667
+unique sol
+Y:
+1 8.75 -5.22222 -28.7333 
+X:
+-0.601163 -1.41628 1.54419 1.00233 
+

@@ -1,0 +1,36 @@
+Enter the number of equations: 4
+Augmented matrix:
+8     2     3     4     1
+2     5     6     8     9
+4     6     9     2     5
+4     8     5     6     0
+Determinant: -1720  So Inversible
+Adjoint Matrix:
+  0.137209-0.0813953-0.00116279 0.0174419
+-0.0790698 -0.139535-0.0162791  0.244186
+-0.0139535 0.0930233  0.144186 -0.162791
+ 0.0255814  0.162791-0.0976744-0.0348837
+Solution:
+-0.601163 -1.41628 1.54419 1.00233 
+
+Enter the number of equations: 3
+Augmented matrix:
+1     2     1     2
+2     8     2     8
+7     3     9     9
+Determinant: 8  So Inversible
+Adjoint Matrix:
+      8.25    -1.875      -0.5
+      -0.5      0.25        -0
+     -6.25     1.375       0.5
+Solution:
+-3 1 3 
+
+Enter the number of equations: 4
+Augmented matrix:
+1     2     3     4    10
+2     4     6     8    20
+3     6     9    12    30
+4     8    12    16    40
+Determinant: 0  So Non Inversible
+
