@@ -1,0 +1,13 @@
+num of data : 
+Enter x values : 
+Enter y values: 
+value to of x : 
+
+Forward Difference Table:
+14	12	10	4	2	
+26	22	14	6	
+48	36	20	
+84	56	
+140	
+
+ for x = 5 the value of f(x) = 35.5469
