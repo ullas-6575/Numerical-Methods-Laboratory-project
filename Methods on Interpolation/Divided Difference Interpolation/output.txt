@@ -1,0 +1,12 @@
+num of data : 
+Enter x values : 
+Enter y values: 
+value to of x : 
+
+Divided Difference Table:
+4	26	15	1	
+56	131	23	
+711	269	
+980	
+
+ for x = 5 the value of f(x) = 115
