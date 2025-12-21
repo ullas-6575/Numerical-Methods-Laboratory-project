@@ -1,7 +1,7 @@
 # Numerical-Methods-Laboratory
 ## Table of Contents
 
-- [Solution of Linear Equations](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Linear%20Equations)
+- [Solution of  Equations](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Linear%20Equations)
   - [Gauss Elimination Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Linear%20Equations/Gauss%20Elemination%20Methode)
     - [Theory]()
     - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Linear%20Equations/Gauss%20Elemination%20Methode/GE.cpp)
