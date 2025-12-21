@@ -1,7 +1,76 @@
 # Numerical-Methods-Laboratory
+
+## Project Structure
+```text
+Numerical-Methods-Laboratory-project/
+├── Methods on Integration (simpson)/
+│   ├── one-third/
+│   │   ├── 13simp.cpp
+│   │   ├── input.txt
+│   │   └── output.txt
+│   └── third-eight/
+│       ├── 38simp.cpp
+│       ├── input.txt
+│       └── output.txt
+├── Methods on Linear Equations/
+│   ├── Gauss Elemination Methode/
+│   │   ├── GE.cpp
+│   │   ├── Gauss.pdf
+│   │   ├── input.txt
+│   │   └── output.txt
+│   ├── Gause Jordan Elemination Methode/
+│   │   ├── GJ.pdf
+│   │   ├── GJE.cpp
+│   │   ├── input.txt
+│   │   └── output.txt
+│   ├── LU Decomposition/
+│   │   ├── LU.cpp
+│   │   ├── LU.pdf
+│   │   ├── input.txt
+│   │   └── output.txt
+│   └── Matrix Inversion methode/
+│       ├── input.txt
+│       ├── inverse.cpp
+│       ├── mat.pdf
+│       └── output.txt
+├── Methods on NonLinear/
+│   ├── Bisection Method/
+│   │   ├── bisec.cpp
+│   │   ├── input.txt
+│   │   └── output.txt
+│   ├── Falsi position Method/
+│   │   ├── falsi.cpp
+│   │   ├── input.txt
+│   │   └── output.txt
+│   ├── Newton-Raphson Method/
+│   │   ├── input.txt
+│   │   ├── newton_raph.cpp
+│   │   └── output.txt
+│   └── Secant Method/
+│       ├── input.txt
+│       ├── output.txt
+│       └── secant.cpp
+├── Methods on Regression/
+│   ├── Linear Regression/
+│   │   ├── LR.cpp
+│   │   ├── LR.pdf
+│   │   ├── input.txt
+│   │   └── output.txt
+│   ├── Polynomial Regression/
+│   │   ├── input.txt
+│   │   ├── output.txt
+│   │   ├── poly.pdf
+│   │   └── pr.cpp
+│   └── Treanscendal Regression/
+│       ├── TR.cpp
+│       ├── input.txt
+│       ├── output.txt
+│       └── trans.pdf
+└── README.md
+```
 ## Table of Contents
 
-- [Solution of  Equations](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Linear%20Equations)
+- [Solution of  linear Equations](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Linear%20Equations)
   - [Gauss Elimination Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Linear%20Equations/Gauss%20Elemination%20Methode)
     - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Linear%20Equations/Gauss%20Elemination%20Methode/Gauss.pdf)
     - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Linear%20Equations/Gauss%20Elemination%20Methode/GE.cpp)
@@ -25,42 +94,42 @@
 
 - [Solution of Non-Linear Equations](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20NonLinear)
   - [Bisection Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20NonLinear/Bisection%20Method)
-    - [Theory]()
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Bisection%20Method/Bisection%20Method.pdf)
     - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Bisection%20Method/bisec.cpp)
     - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Bisection%20Method/input.txt)
     - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Bisection%20Method/output.txt)
   - [False Position Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20NonLinear/Falsi%20position%20Method)
-    - [Theory]()
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Falsi%20position%20Method/False%20Position.pdf)
     - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Falsi%20position%20Method/falsi.cpp)
     - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Falsi%20position%20Method/input.txt)
     - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Falsi%20position%20Method/output.txt)
   - [secant Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20NonLinear/Secant%20Method)
-    - [Theory]()
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Secant%20Method/Secant%20Method.pdf)
     - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Secant%20Method/secant.cpp)
     - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Secant%20Method/input.txt)
     - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Secant%20Method/output.txt)
   - [Newton-Raphson Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20NonLinear/Newton-Raphson%20Method)
-    - [Theory]()
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Newton-Raphson%20Method/Newton-Raphson%20Method.pdf)
     - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Newton-Raphson%20Method/newton_raph.cpp)
     - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Newton-Raphson%20Method/input.txt)
     - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20NonLinear/Newton-Raphson%20Method/output.txt)
       
-- [Solution of Newtons Interpolation]()
-  - [Newton's Forward Interpolation Method]()
-    - [Theory]()
-    - [Code]()
-    - [Input]()
-    - [Output]()
-  - [Newton's Backward InterpolationMethod]()
-    - [Theory]()
-    - [Code]()
-    - [Input]()
-    - [Output]()
-  - [Newton's Divided Difference Interpolation Method]()
-    - [Theory]()
-    - [Code]()
-    - [Input]()
-    - [Output]()
+- [Solution of Newtons Interpolation](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Interpolation)
+  - [Newton's Forward Interpolation Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Interpolation/Forward%20Interpolation)
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Forward%20Interpolation/Newton%E2%80%99s%20Forward%20Interpolation%20Method.pdf)
+    - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Forward%20Interpolation/newtonforward.cpp)
+    - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Forward%20Interpolation/input.txt)
+    - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Forward%20Interpolation/output.txt)
+  - [Newton's Backward InterpolationMethod](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Interpolation/Backward%20Interpolation)
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Backward%20Interpolation/Newton%E2%80%99s%20Backward%20Interpolation%20Method.pdf)
+    - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Backward%20Interpolation/newtonbackward.cpp)
+    - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Backward%20Interpolation/input.txt)
+    - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Backward%20Interpolation/output.txt)
+  - [Newton's Divided Difference Interpolation Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Interpolation/Divided%20Difference%20Interpolation)
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Divided%20Difference%20Interpolation/Newton%E2%80%99s%20Divided%20Difference%20Interpolation%20Method.pdf)
+    - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Divided%20Difference%20Interpolation/newtondivdiff.cpp)
+    - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Divided%20Difference%20Interpolation/input.txt)
+    - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Interpolation/Divided%20Difference%20Interpolation/output.txt)
     
 - [Solution of Least Square Regression](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20%20on%20Regression)
     - [Linear Equation Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20%20on%20Regression/Linear%20Regression)
@@ -79,33 +148,33 @@
       - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20%20on%20Regression/Polynomial%20Regression/input.txt)
       - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20%20on%20Regression/Polynomial%20Regression/output.txt)
 
-- [Solution of Ordinary Differential Equation]()
-    - [Runge-Kutta Method]()
-      - [Theory]()
-      - [Code]()
-      - [Input]()
-      - [Output]()
+- [Solution of Ordinary Differential Equation](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20ODE)
+    - [Runge-Kutta Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20ODE/Runge-Kutta%20Method)
+      - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20ODE/Runge-Kutta%20Method/Runge-Kutta%20Method.pdf)
+      - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20ODE/Runge-Kutta%20Method/rk4.cpp)
+      - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20ODE/Runge-Kutta%20Method/input.txt)
+      - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20ODE/Runge-Kutta%20Method/output.txt)
   
-- [Solution of Differentiation]()
-  - [Differentiation Using Newton's Forward Interpolation Method]()
-    - [Theory]()
-    - [Code]()
-    - [Input]()
-    - [Output]()
-  - [Differentiation Using Newton's Backward Interpolation Method]()
-    - [Theory]()
-    - [Code]()
-    - [Input]()
-    - [Output]()
+- [Solution of Differentiation](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methodes%20on%20Diffrentiation)
+  - [Differentiation Using Newton's Forward Interpolation Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methodes%20on%20Diffrentiation/Forward%20Difference)
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methodes%20on%20Diffrentiation/Forward%20Difference/Forward%20Difference%20Method.pdf)
+    - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methodes%20on%20Diffrentiation/Forward%20Difference/difffor.cpp)
+    - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methodes%20on%20Diffrentiation/Forward%20Difference/input.txt)
+    - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methodes%20on%20Diffrentiation/Forward%20Difference/output.txt)
+  - [Differentiation Using Newton's Backward Interpolation Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methodes%20on%20Diffrentiation/Backward%20Difference)
+    - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methodes%20on%20Diffrentiation/Backward%20Difference/Backward%20Difference%20Method.pdf)
+    - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methodes%20on%20Diffrentiation/Backward%20Difference/diffback.cpp)
+    - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methodes%20on%20Diffrentiation/Backward%20Difference/input.txt)
+    - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methodes%20on%20Diffrentiation/Backward%20Difference/output.txt)
   
   - [Solution of Integration](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Integration%20(simpson))
     - [Simpson's One-Third Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Integration%20(simpson)/one-third)
-      - [Theory]()
+      - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Integration%20(simpson)/one-third/Simpson%E2%80%99s%201by3%20Rule.pdf)
       - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Integration%20(simpson)/one-third/13simp.cpp)
       - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Integration%20(simpson)/one-third/input.txt)
       - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Integration%20(simpson)/one-third/output.txt)
     - [Simpson's Three-Eighth Method](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/tree/main/Methods%20on%20Integration%20(simpson)/third-eight)
-      - [Theory]()
+      - [Theory](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Integration%20(simpson)/third-eight/Simpson%E2%80%99s%203by8%20Rule.pdf)
       - [Code](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Integration%20(simpson)/third-eight/38simp.cpp)
       - [Input](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Integration%20(simpson)/third-eight/input.txt)
       - [Output](https://github.com/ullas-6575/Numerical-Methods-Laboratory-project/blob/main/Methods%20on%20Integration%20(simpson)/third-eight/output.txt)
